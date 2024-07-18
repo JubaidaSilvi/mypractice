@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5662" started-at="2024-03-17T15:08:45Z" finished-at="2024-03-17T15:08:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5662" started-at="2024-03-17T15:08:45Z" finished-at="2024-03-17T15:08:51Z">
+      <class name="com.example.qa.example_project.CapsLock">
+        <test-method status="PASS" signature="CapsLoock()[pri:0, instance:com.example.qa.example_project.CapsLock@62ee68d8]" name="CapsLoock" duration-ms="5631" started-at="2024-03-17T11:08:45Z" finished-at="2024-03-17T11:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CapsLoock -->
+      </class> <!-- com.example.qa.example_project.CapsLock -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
